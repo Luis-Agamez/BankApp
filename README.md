@@ -18,8 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 [![1667225714469.jpg](https://i.postimg.cc/yYDSK1NX/1667225714469.jpg)](https://postimg.cc/kBd5FdKB)
 [![1667225741757.jpg](https://i.postimg.cc/DZsn6NfG/1667225741757.jpg)](https://postimg.cc/Q9X2x0TN)
 [![1667225756099.jpg](https://i.postimg.cc/rFhX1TGb/1667225756099.jpg)](https://postimg.cc/ppn6vg6Y)
-[![1667225769663.jpg](https://i.postimg.cc/2yzMW91r/1667225769663.jpg)](https://postimg.cc/k6pT3cNp)
-[![1667225784538.jpg](https://i.postimg.cc/q7y55Hnp/1667225784538.jpg)](https://postimg.cc/yJ6jD5vG)
 [![1667225793996.jpg](https://i.postimg.cc/dVTHhc5G/1667225793996.jpg)](https://postimg.cc/WdT6yCL4)
 [![1667225805459.jpg](https://i.postimg.cc/cJhQHDGQ/1667225805459.jpg)](https://postimg.cc/XZZZ1kJJ)
 [![1667225815560.jpg](https://i.postimg.cc/0jMmVPMf/1667225815560.jpg)](https://postimg.cc/9w2rM3BR)
